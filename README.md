@@ -89,7 +89,8 @@
 | 国内加速 | COS全球加速 | https://anyibang-1451380136.cos.accelerate.myqcloud.com/index.html |
 | 海外备用 | Vercel | https://workspace-nu-seven-45.vercel.app |
 | 视频录制 | 腾讯会议 | https://meeting.tencent.com/crm/Nbg6JAjAcd |
-若平台部署链接打开为空白或无法访问，可能是托管路由匹配问题，建议打开录制的演示视频直接查看。
+
+*若平台部署链接打开为空白或无法访问，可能是托管路由匹配问题，建议打开录制的演示视频直接查看，或将文件下载至电脑进行本地化部署*
 
 ## 📅 技术迭代路线
 ### Phase1（✅ 已完成，当前Demo版本）
