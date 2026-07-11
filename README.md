@@ -134,10 +134,6 @@ Anyibang is an AI-native pension planning web application for elders and their c
 ✅ Elder-friendly UI | Large button, high contrast, font zoom, privacy lock
 ✅ No-download H5 | Direct access via browser & WeChat embedded view
 
-### Live Demo
-Main Site (China): https://anyibang-1451380136.cos-website.ap-guangzhou.myqcloud.com
-Vercel Backup: https://workspace-nu-seven-45.vercel.app
-
 ### Project Structure
 Frontend source under `/src`, Express backend in `/api`, full PRD & architecture docs stored in `.trae/documents`
 Built on official Vite+React-TS template with strict TypeScript lint rules.
